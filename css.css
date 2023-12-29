@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+.hero {
+    background-color: #85bbf6;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+}
+
+.courses {
+    padding: 20px;
+}
+
+.course-card {
+    margin: 10px;
+    background-color: #eee;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.pricing {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.pricing-table ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.pricing-table li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.original-price {
+    opacity: 0.5;
+    text-decoration: line-through;
+}
+
+.discount-offer {
+    color: #ff0000;
+    font-weight: bold;
+    margin-top: 10px;
+}
